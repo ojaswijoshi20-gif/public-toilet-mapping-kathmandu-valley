@@ -1,2 +1,21 @@
 # public-toilet-mapping-kathmandu-valley
-The project focuses on mapping and assessing public toilets in three durbar squares of Kathmandu Valley. It combines tourism, urban infrastructure, sanitation, and GIS analysis.
+Project Overview
+This project maps and assesses the condition of publicly accessible toilets in selected heritage areas:
+Kathmandu Durbar Square
+Patan Durbar Square
+Bhaktapur Durbar Square
+
+Objectives:
+Identify public toilet locations.
+Assess facility conditions.
+Evaluate accessibility and service availability.
+Visualize findings using GIS.
+
+Tools
+QGIS
+Excel
+Google Maps
+Field Observation
+
+Author
+Ojaswi Joshi
