@@ -2,8 +2,7 @@
 
 ## Project Title
 
-Mapping Public Toilet Availability and Condition in Selected Heritage Areas of Kathmandu Valley
-
+Spatial Distribution and condition assessment of public toilets in the heritage sites of Kathmandu Valley 
 ## Project Status
 
 Planning Phase
