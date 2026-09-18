@@ -59,6 +59,7 @@ Toilets located inside private businesses such as restaurants, cafés, hotels, a
 - Google Maps / GPS
 - Mobile phone camera
 - Field observation
+- KoBo Toolbox
 
 ## Planned Outputs
 
