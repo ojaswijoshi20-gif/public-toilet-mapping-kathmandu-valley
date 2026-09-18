@@ -45,7 +45,7 @@ For each identified public toilet, the following information will be collected:
 
 ## Methodology
 
-The project will use a field inventory approach. All publicly accessible toilets identified within the selected study areas during the field survey will be recorded and assessed.
+The project will use a field inventory approach. All publicly accessible toilets identified within the selected study areas during the field survey will be recorded and assessed.Existing online toilet directories will be reviewed prior to field verification. 
 
 Toilets located inside private businesses such as restaurants, cafés, hotels, and other commercial establishments will be excluded.
 
