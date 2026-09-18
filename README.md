@@ -1,4 +1,4 @@
-# public-toilet-mapping-kathmandu-valley
+# Spatial distribution and condition assessment of public toilets in the heritage sites of kathmandu Vallley
 Project Overview:
 This project maps and assesses the condition of publicly accessible toilets in selected heritage areas:
 Kathmandu Durbar Square,
