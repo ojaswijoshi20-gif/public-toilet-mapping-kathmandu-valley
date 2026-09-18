@@ -2,7 +2,7 @@
 
 ## Project Title
 
-Spatial Distribution and condition assessment of public toilets in the heritage sites of Kathmandu Valley 
+Spatial Distribution, field verification and condition assessment of public toilets in the heritage sites of Kathmandu Valley 
 ## Project Status
 
 Planning Phase
